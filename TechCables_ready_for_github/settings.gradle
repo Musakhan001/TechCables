@@ -1,0 +1,2 @@
+rootProject.name = "TechCables"
+include(":app")

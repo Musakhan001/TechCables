@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+echo "Gradle wrapper not included. Use local Gradle or generate wrapper with 'gradle wrapper'." && exit 1
